@@ -19,7 +19,7 @@ struct ContentView: View {
             HStack{
                 Image(systemName: "cloud.rain.fill")
                     .imageScale(.small)
-                    .foregroundStyle(.purple)
+                    .foregroundStyle(.green)
                 Text("Tuesday")
                     .bold()
             }
