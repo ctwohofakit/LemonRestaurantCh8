@@ -26,6 +26,7 @@ struct AboutView: View {
                 Image(systemName: "map")
                     .foregroundStyle(.yellow)
                     }
+            
                 }
     
         .padding()
