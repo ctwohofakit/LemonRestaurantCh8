@@ -13,3 +13,4 @@ print("Now we are called \(restaurantName)")
 //constant cannot change
 let city = "Chicago"
 
+print("Our restaurant is located in \(city)")
